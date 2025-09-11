@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3354b48-99c1-48da-b411-c6d5d4eb81b6" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Christopher N.M.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/nshindano.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB EXERCISE ONE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB EXERCISE TWO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/What's New in PyCharm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nshindano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB EXERCISE THREE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB EXERCISE ONE.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB EXERCISE ONE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.LAB EXERCISE THREE.executor": "Run",
+    "Python tests.Python tests for test_LAB EXERCISE THREE.Test.executor": "Debug",
     "Python.LAB EXERCISE ONE.executor": "Run",
+    "Python.LAB EXERCISE THREE.executor": "Run",
     "Python.LAB EXERCISE TWO.executor": "Debug",
-    "Python.nshindano.executor": "Debug",
+    "Python.nshindano.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Administrator/Desktop/1234/Christopher N.M"
@@ -59,7 +51,7 @@
       <recent name="C:\Users\Administrator\Desktop\1234\Christopher N.M" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LAB EXERCISE TWO">
+  <component name="RunManager" selected="Python.LAB EXERCISE THREE">
     <configuration name="LAB EXERCISE ONE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Christopher N.M" />
       <option name="ENV_FILES" value="" />
@@ -74,6 +66,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB EXERCISE ONE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LAB EXERCISE THREE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Christopher N.M" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB EXERCISE THREE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,8 +118,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LAB EXERCISE THREE" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="Christopher N.M" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LAB&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LAB EXERCISE THREE" />
+        <item itemvalue="Python tests.LAB EXERCISE THREE" />
         <item itemvalue="Python.LAB EXERCISE TWO" />
         <item itemvalue="Python.LAB EXERCISE ONE" />
       </list>
@@ -114,7 +145,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-af26db0dccfe-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.26775.22" />
       </set>
     </attachedChunks>
   </component>
@@ -127,6 +158,15 @@
       <option name="presentableId" value="Default" />
       <updated>1757520194897</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1757574280967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757574280967</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
